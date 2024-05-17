@@ -69,12 +69,3 @@ The project is separated into two large parts: `BackEnd` and `Connection`
 - Description of encryption tactics for the project
 
 [Research_financial_data_crypto.pdf](https://github.com/oThiagoBittencourt/GesoBank/files/15329665/Research_financial_data_crypto.pdf)
-
-
----
-
-### Members:
-- [Thiago Bittencourt](https://github.com/oThiagoBittencourt)
-- [Gael Huk Kukla](https://github.com/kyeruii)
-- [Yann Lucas](https://github.com/Y4nnLS)
-- [Gabriel Delfes](https://github.com/Gabrielmd3)
