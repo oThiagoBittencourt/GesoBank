@@ -10,7 +10,7 @@
    * [About the Project](#about-the-project)
    * [Technologies Used](#technologies-used)
    * [Functionalities](#functionalities)
-   * [Members](#members)
+   * [Research](#research)
 <!--te-->
 
 ---
